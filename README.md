@@ -127,3 +127,4 @@ Pr(|10>)=1.000000;
 
  This final manner of working with the library provides the most complete mathematical understanding of what's going on. Any individual state or gate can be printed, and it is clear how entanglement is represented as this is not done under the hood in this scenario.
 "# quantum-computer" 
+"# quantum-computer" 
